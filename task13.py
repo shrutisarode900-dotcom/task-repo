@@ -1,4 +1,4 @@
-def book_tiket():
+def book_ticket():
     try:
         seat_no =int(input("enter the seat number:" ))
         if seat_no < 1 or seat_no > 100:
@@ -8,5 +8,5 @@ def book_tiket():
     except ValueError:
        print("please enter the valid seat number")
 
-book_tiket()
+book_ticket()
 
