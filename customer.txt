@@ -1,1 +1,1 @@
-shruti
+"C:\Program Files\Python313\python.exe" "c:/Users/HP/OneDrive/Desktop/task repo/task17.py"
